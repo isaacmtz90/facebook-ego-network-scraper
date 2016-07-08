@@ -22,6 +22,8 @@ Install dependencies via Pip:
 <b>
 You will need your own FB numerical id, get it using http://theseotools.net/bulk-fb-id-finder or a similar tool.
 Make sure to have a stable internet connection, may take some hours depending on the number of friends.
+
+Known issue: Get slowr over time, possible FF memory leak
 </b>
 
 <i> Submit any issue here or to imtz90b@gmail.com</i>
