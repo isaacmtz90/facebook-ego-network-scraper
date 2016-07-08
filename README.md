@@ -4,13 +4,13 @@
 Get your Facebook friend network.<br>
 This python script uses a browser automation library (SeleniumHQ) and the Firefox browser.
 
-<b>Usage: "python extract_ego.py \<username\> \<password\> \<numerical_fb_id\> \<output file\>.dot"></b>
+<b>Usage: "python extract_ego.py \<username\> \<password\> \<numerical_fb_id\> \<output file\>.dot"</b>
 
 ** username can also be the account email.
 
 The output format is a .dot file (specify in the arguments)
 
-This script uses a browser automation library (SeleniumHQ) and the Firefox browser.
+
 
 Install dependencies via Pip:
 <ul>
