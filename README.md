@@ -1,8 +1,8 @@
 # facebook-ego-network-scraper
 Scrape Facebook ego network using Python and SelenumHQ 
 
+Get your Facebook friend network.
 
-Get your Facebook friend network
 Usage: python extract_ego.py <username> <password> <numerical_fb_id> <output file>
 ** username can also be the account email.
 
